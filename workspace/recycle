@@ -1,0 +1,68 @@
+body#obama1{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    background-image: url(../img/obama1.jpg);
+}
+
+header{
+    color: red;
+    background-color: darkgrey;
+    text-align: center;
+    font-family: cursive;
+    font-size: 40px;
+    height: 60px;
+    margin-top: 50px;
+}
+a{
+    text-decoration: none;
+}
+li {
+    display: inline;
+    margin-left: 190px;
+    text-align: center;
+    background-color: darkgrey;
+    font-size: 30px;
+    border-color: black;
+}
+footer{
+    color: blue;
+    background-color:black;
+    font-family: cursive;
+    font-size: 40px;
+    height:60px;
+    text-align: center;
+}
+
+
+p#obamabegins{
+    height: 150px;
+    width: 800px;
+    font-size: 30px;
+    background-color: red;
+    margin-top: 50px;
+    margin-left: 20px;
+    transition: all 30s ease-in-out;
+}
+    
+}
+p#obamabegins2{
+    height: 150px;
+    width: 500px;
+    font-size: 30px;
+    background-color: white;
+    margin-top: 100px;
+    margin-left: 700px;
+    transition: all 30s ease-in-out;
+}
+
+p#obamabegins3{
+    height: 150px;
+    width: 700px;
+    font-size: 30px;
+    background-color: blue;
+    margin-top: 150px;
+    margin-left: 800px;
+    transition: all 30s ease-in-out;
+}
